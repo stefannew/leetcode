@@ -2,7 +2,6 @@
   "compilerOptions": {
 	"esModuleInterop": true,
 	"lib": [
-	  "decorators",
 	  "dom",
 	  "es5",
 	  "scripthost",
